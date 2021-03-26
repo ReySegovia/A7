@@ -16,7 +16,7 @@ public class A7 {
                 System.out.print((j) + ",");
             }
         }
-        System.out.println(" ");
+        System.out.println("  ");
         System.out.print("Sucesión de fibonacci: "+in);
         System.out.println(" ");
         int[] arreglo = new int[in];
